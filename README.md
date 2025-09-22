@@ -198,24 +198,42 @@ python qmt_download_and_connect_test.py
 
 本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
 
-## 👨‍💻 作者
 
-- **开发者** - QMT工具开发团队
+## 👨‍💻 作者信息
+
+**余汉波** - 编程爱好者-量化交易和效率工具开发
+
+- **GitHub**: [@yuhanbo758](https://github.com/yuhanbo758)
+
+- **Email**: yuhanbo@sanrenjz.com
+
+- **Website**: [三人聚智](https://www.sanrenjz.com)
+
+## 🌐 相关链接
+
+- 🏠 [项目主页](https://www.sanrenjz.com)
+
+- 📚 [在线文档](https://docs.sanrenjz.com)（财经、代码和库文档等）
+
+- 🛒 [插件商店](https://shop.sanrenjz.com)（个人开发的所有程序，包括开源和不开源）
+
+
+## 联系我们
+
+[联系我们 - 三人聚智-余汉波](https://www.sanrenjz.com/contact_us/)
+
+python 程序管理工具下载：[sanrenjz - 三人聚智-余汉波](https://www.sanrenjz.com/sanrenjz/)
+
+效率工具程序管理下载：[sanrenjz-tools - 三人聚智-余汉波](https://www.sanrenjz.com/sanrenjz-tools/)
+
+![三码合一](https://gdsx.sanrenjz.com/image/sanrenjz_yuhanbolh_yuhanbo758.png?imageSlim&t=1ab9b82c-e220-8022-beff-e265a194292a)
+
+![余汉波打赏码](https://gdsx.sanrenjz.com/PicGo/%E6%89%93%E8%B5%8F%E7%A0%81500.png)
 
 ## 🙏 致谢
 
-- 感谢QMT团队提供的交易接口
-- 感谢Python社区的优秀开源库
-- 感谢所有贡献者和用户的反馈
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-
-- 提交GitHub Issue
-- 发送邮件至开发团队
-- 加入用户交流群
+感谢所有为本项目贡献代码和想法的开发者们！
 
 ---
 
-**⭐ 如果这个项目对你有帮助，请给它一个Star！**
+**⭐ 如果这个项目对您有帮助，请给它一个 Star！**
