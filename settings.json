@@ -1,0 +1,9 @@
+
+{
+    "name": "QMT连接和数据下载测试工具",
+    "description": "一个集成了QMT交易接口连接、行情数据下载、实时数据获取等功能的GUI应用程序。\n\n使用方法：\n1. 配置QMT路径和账户信息。\n2. 选择数据类型和时间范围进行下载。\n3. 监控实时行情并设置预警。",
+    "main_file": "qmt_download_and_connect_test.py",
+    "version": "1.0",
+    "author": "余汉波",
+    "category": "量化交易"
+}

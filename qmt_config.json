@@ -1,0 +1,16 @@
+{
+    "qmt": {
+        "path": "D:/jiaoyi/江海证券QMT模拟交易端/userdata_mini",
+        "stock_account": "10046627"
+    },
+    "monitor": {
+        "rise_threshold": 0.05,
+        "fall_threshold": 0.05,
+        "monitor_stocks": "全市场",
+        "sound_enabled": true,
+        "sound_type": "系统提示音"
+    },
+    "realtime": {
+        "stock_code": "000001.SZ"
+    }
+}

@@ -1,0 +1,12 @@
+xtquant
+tkinter
+pandas
+sqlite3
+datetime
+winsound
+markdown
+html2text
+queue
+json
+openpyxl
+subprocess
